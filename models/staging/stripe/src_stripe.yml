@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: stripe
+    database: ga-data-242308
+    schema: helen_gylltoft
+    tables:
+      - name: stripe_payments
